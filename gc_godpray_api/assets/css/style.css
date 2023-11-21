@@ -1,0 +1,9 @@
+.prayer.order_data_column{
+    width: 250px !important;
+}
+.prayer_container{
+    width: 1000px !important;
+    display: flex;
+    gap: 20px;
+    flex-wrap:wrap;
+}
